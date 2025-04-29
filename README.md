@@ -4,7 +4,7 @@
 
 💻 Building web apps using Django and REST APIs
 
-🌐 Familiar with HTML, CSS, and JavaScript from earlier curriculum
+🌐 Familiar with HTML, CSS, and JavaScript 
 
 📚 Strong academic background in core computer science subjects
 
