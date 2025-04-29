@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hey there! Thanks for stopping by my GitHub!
 
-<!--
-**sudhanshu9827/sudhanshu9827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Self-taught Python enthusiast with a strong passion for backend development
 
-Here are some ideas to get you started:
+💻 Building web apps using Django and REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Familiar with HTML, CSS, and JavaScript from earlier curriculum
+
+📚 Strong academic background in core computer science subjects
+
+🎯 Cracked GATE (CS) with an AIR of 2917 in my third year
+
+🚀 Always exploring new technologies and tools
+
+🤝 Open to collaboration and eager to contribute to open source
+
+🔍 Currently focused on improving my skills and building real-world projects
