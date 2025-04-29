@@ -1,4 +1,3 @@
-![Description](text.jpg)
 👋 Hey there! Thanks for stopping by my GitHub!
 
 🧠 Self-taught Python enthusiast with a strong passion for backend development
