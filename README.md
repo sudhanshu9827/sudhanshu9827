@@ -15,4 +15,4 @@
 
 🤝 Open to collaboration and eager to contribute to open source
 
-🔍 Currently focused on improving my skills and building real-world projects
+🔍 Currently focused on improving my skills and building real
